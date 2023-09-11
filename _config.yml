@@ -217,6 +217,8 @@ photo_previewer:
 
 # Build settings
 # highlighter: none
+theme: minimal-mistakes-jekyll
+
 markdown: kramdown
 kmarkdown:
   input: GFM
